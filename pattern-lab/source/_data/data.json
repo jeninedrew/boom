@@ -6,9 +6,9 @@
   "siteName": "Site Name",
 
   "font": {
-    "headings": "'Helvetica Neue', Helvetica, Arial, sans-serif;",
+    "headings": "'Lato', sans-serif;",
     "monospace": "Consolas, 'Lucida Console', 'Liberation Mono', 'Courier New', monospace, sans-serif;",
-    "primary": "'Helvetica Neue', Helvetica, Arial, sans-serif;"
+    "primary": "'PT Serif', serif;"
   },
 
   "adminView": false,

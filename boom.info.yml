@@ -4,10 +4,11 @@ description: 'Drupal 8 and Pattern Lab'
 package: Core
 core: 8.x
 base theme: stable
-screenshot: screenshot.png
+screenshot: boom-screenshot.png
 
 libraries:
   - boom/global
+  - boom/fonts
 
 libraries-override:
   core/drupal.dropbutton:

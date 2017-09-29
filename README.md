@@ -16,6 +16,8 @@
 
 - Run Grunt build task `grunt` to compile Sass , compile the CSS/Pattern Lab files and watch PAttern Lab files for changes.
 
+- Pattern Lab site -- capr.diggity/themes/boom/pattern-lab/public/index.html
+
 ## Compiling Sass
 
 [LibSass](http://sass-lang.com/libsass) is required to compile the Sass into
@@ -48,10 +50,35 @@ based imports to Sass.
 
 * [Autoprefixer](https://github.com/postcss/autoprefixer): Adds necessary browser CSS property prefixes during Sass compilation.
 
-## Pattern Lab
+## Pattern Lab 
 
+Uses Drupal standard edition of Pattern Lab and [the boom Twig starter kit](https://github.com/forumone/starterkit-twig-drupal-gesso), found in a subdirectory of Gesso called 'pattern-lab'.
 
+After install, others cloning the repo need to run `composer install` to install dependencies.
 
+### One line start
+
+This will compile PL and watch for changes while running the local server:
+
+    composer start --timeout=0
+
+### Generate Pattern Lab
+
+To generate the front-end for Pattern Lab type:
+
+    php core/console --generate
+
+### Start a server to view Pattern Lab
+
+You can use PHP's built-in web server to review your Pattern Lab project in a browser. In a separate window type:
+
+    php core/console --server
+
+Then open [http://localhost:8080](http://localhost:8080) in your browser.
+
+### Updating Pattern Lab
+
+    composer update
 
 ## Notes
 

@@ -2,7 +2,7 @@
 // Styles for the main menu.
 
 .nav--main {
-  @extend %nav--inline;
+  // @extend %nav--inline;
 
   @media print {
     display: none;
