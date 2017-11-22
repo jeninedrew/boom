@@ -16,7 +16,7 @@
 
 - Run Grunt build task `grunt` to compile Sass , compile the CSS/Pattern Lab files and watch PAttern Lab files for changes.
 
-- Pattern Lab site -- capr.diggity/themes/boom/pattern-lab/public/index.html
+- Pattern Lab site: capr.diggity/themes/boom/pattern-lab/public/index.html
 
 ## Compiling Sass
 
