@@ -1,0 +1,31 @@
+// @file
+// Styles for footer region.
+
+.footer-page {
+	background-color: $green-blue;
+}
+
+.region-footer-page {
+	@include l-constrain;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding: $section-padding 0;
+
+	.nav {
+		display: flex;
+		align-items: center;
+    flex-direction: column;
+	}
+
+	a {
+		color: #ffffff;
+	}
+
+	li:hover a,
+	li:focus a,
+	li:active a {
+		text-decoration: underline;
+		color: $red;
+	}
+}

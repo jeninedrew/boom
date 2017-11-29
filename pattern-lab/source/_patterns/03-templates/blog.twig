@@ -2,14 +2,19 @@
 {% include "layouts-preface-region" %}
 
 <main id="main" class="main" role="main" tabindex="-1">
-  <div class="region-content">
-    <div class="l-constrain">
+	<div class="region-content">
+			<div class="l-constrain">
 
-      <p>Homepage content goes here&hellip;</p>
+				{% include "components-page-title" %}
 
-    </div>
-  </div>
+				 <p>Blog posts go here&hellip;</p>
+
+				{% include "components-pager" %}
+
+			</div>
+		</div>
 </main>
+
 
 {% include "layouts-postscript-region" %}
 {% include "layouts-footer-region" %}

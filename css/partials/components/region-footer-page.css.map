@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "region-footer-page.css",
+	"sources": [
+		"../../../sass/partials/components/region-footer-page.scss"
+	],
+	"mappings": "AAEA,AAAA,YAAY,EAGZ,AAHA,mBAGmB,CAHN;EACZ,OAAO,EAAE,IAAK,GACd;;AACD,AAAA,mBAAmB,CAAC;EAEnB,OAAO,EAAE,IAAK;EACd,eAAe,EAAE,MAAO,GACxB",
+	"names": []
+}

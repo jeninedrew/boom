@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "region-alert.css",
+	"sources": [
+		"../../../sass/partials/components/region-alert.scss"
+	],
+	"mappings": "",
+	"names": []
+}

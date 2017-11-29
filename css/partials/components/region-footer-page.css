@@ -1,0 +1,8 @@
+.l-constrain, .region-page-footer {
+  display: none; }
+
+.region-page-footer {
+  display: flex;
+  justify-content: center; }
+
+/*# sourceMappingURL=region-footer-page.css.map */

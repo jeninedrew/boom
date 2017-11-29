@@ -1,0 +1,23 @@
+.block--alert-strip {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: $red;
+
+	p {
+		margin: 0 0 0;
+		padding: .7em
+	}
+
+	a {
+		color: #ffffff;
+		text-decoration: none;
+	}
+
+	a:hover,
+	a:focus,
+	a:active {
+		color: #ffffff;
+		background-color: $dark-red
+	}
+}

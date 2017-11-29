@@ -41,6 +41,7 @@ libraries-override:
 
 regions:
   page_top: 'Page top'
+  alert: alert
   header: Header
   navigation: Navigation
   breadcrumb: Breadcrumb
@@ -51,5 +52,7 @@ regions:
   sidebar_second: 'Sidebar second'
   content: Content
   postscript: Postscript
+  footer_blog: 'Footer blog'
+  footer_page: 'Footer page'
   footer: Footer
   page_bottom: 'Page bottom'

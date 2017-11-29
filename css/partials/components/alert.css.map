@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "alert.css",
+	"sources": [
+		"../../../sass/partials/components/alert.scss"
+	],
+	"mappings": "",
+	"names": []
+}

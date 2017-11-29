@@ -1,0 +1,11 @@
+.region-footer .search-block-form {
+  justify-content: center; }
+
+.block--copyright
+contextual-region block block--copyright-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue; }
+
+/*# sourceMappingURL=region-footer.css.map */

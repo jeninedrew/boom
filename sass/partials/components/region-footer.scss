@@ -1,0 +1,52 @@
+// @file
+// Styles for footer region.
+
+// contact info
+
+.block--footer-contact-info .block__content {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background-color: $blue;
+	padding: $section-padding 0;
+}
+
+.block--footer-contact-info {
+	p {
+		margin: 0 0 .5rem;
+	}
+	
+	p, a {
+	color: #ffffff;
+	text-decoration: none;
+	}
+
+	a:hover,
+	a:active,
+	a:focus {
+		text-decoration: underline;
+		color: #ffffff;
+	}
+}
+
+// search
+
+.region-footer .block--search  {
+	display: flex;
+	justify-content: center;
+	background: $green-blue;
+	padding: $section-padding 0;
+}
+
+// copyright
+
+.block--copyright-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	p {
+		color: $blue;
+		margin: 1em 0;
+	}
+}

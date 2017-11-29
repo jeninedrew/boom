@@ -10,6 +10,10 @@
   margin-bottom: 0;
 }
 
+.nav__link {
+  text-decoration: none;
+}
+
 // Extendable styles for an inline nav.
 %nav--inline {
   > .nav__item {
@@ -17,6 +21,17 @@
     display: inline-block;
     vertical-align: middle;
     white-space: nowrap;
+    padding: .9rem;
+  }
+
+  > .nav__item:hover,
+  > .nav__item:focus,
+  > .nav__item:active,
+  > .nav__item:hover a,
+  > .nav__item:focus a,
+  > .nav__item:active a {
+    background-color: $red;
+    color: #ffffff;
   }
 }
 

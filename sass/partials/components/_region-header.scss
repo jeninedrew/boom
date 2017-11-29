@@ -1,0 +1,22 @@
+// @file
+// Styles for header region.
+
+.region-header {
+	@include l-constrain;
+	display: flex;
+	align-items: center;
+	
+	.site-logo___image {
+	flex-grow: 1;
+	}
+
+	.site-name__text {
+		flex-grow: 1;
+	}
+
+	nav {
+		display: flex;
+		justify-content: flex-end;
+		flex-grow: 2;
+	}
+}
