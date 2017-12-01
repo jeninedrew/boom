@@ -52,7 +52,7 @@ based imports to Sass.
 
 ## Pattern Lab 
 
-Uses Drupal standard edition of Pattern Lab and [the boom Twig starter kit](https://github.com/forumone/starterkit-twig-drupal-gesso), found in a subdirectory of Gesso called 'pattern-lab'.
+Uses Drupal standard edition of Pattern Lab and [the Gesso Twig starter kit](https://github.com/forumone/starterkit-twig-drupal-gesso), found in a subdirectory of Gesso called 'pattern-lab'.
 
 After install, others cloning the repo need to run `composer install` to install dependencies.
 
@@ -82,6 +82,6 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## Notes
 
-- Built with [Gesso starter theme](https://www.drupal.org/project/boom) and [Twig boom StarterKit for Drupal](https://github.com/forumone/starterkit-twig-drupal-boom) (installed with Pattern Lab).
+- Built with [Gesso starter theme](https://www.drupal.org/project/boom) and [Twig Gesso StarterKit for Drupal](https://github.com/forumone/starterkit-twig-drupal-boom) (installed with Pattern Lab).
 
 
