@@ -87,7 +87,7 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
 # Integrated Modular Design
 
-Read the [https://frances.ink/portfolio/modular-design.html](case study). 
+Read the [case study](https://frances.ink/portfolio/modular-design.html). 
 
 ## Summary
 
