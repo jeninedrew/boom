@@ -87,7 +87,7 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 <br> 
 
 <p align="center">
-  <img src ="https://frances.ink/portfolio/modular-design.html" />
+  <img src="https://frances.ink/portfolio/modular-design.html" />
 </p>
 
 
