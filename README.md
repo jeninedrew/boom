@@ -84,18 +84,11 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
 - Built with [Gesso starter theme](https://github.com/forumone/gesso) and [Twig Gesso StarterKit for Drupal](https://github.com/forumone/starterkit-twig-drupal-gesso) (installed with Pattern Lab).
     
-# Case Study
+# Integrated Modular Design Case Study
 
 Read the [case study](https://frances.ink/portfolio/modular-design.html). 
 
-## Integrated Modular Design
-
-<br> 
-<p align="center">
-    <img src="https://frances.ink/assets/img/modular-design/flow.png" />
-</p>
-
-## Summary
+##  Summary
 
 A Drupal 8 theme enhanced with an integrated version of Pattern Lab's component-based design system. The theme enables designers, developers and clients to collaborate using reusable UI elements and centralized sources for easy modification across patterns. Interactive designs mean components are quickly optimized and tested for responsiveness, accessibility and performance.
 
@@ -104,6 +97,11 @@ A Drupal 8 theme enhanced with an integrated version of Pattern Lab's component-
 - Integrated Design System
 - Content Strategy
 - HTML, CSS, Sass, Grunt, JS, MySQL
+
+<br> 
+<p align="center">
+    <img src="https://frances.ink/assets/img/modular-design/flow.png" />
+</p>
 
 ## Design Highlights
 
