@@ -104,3 +104,55 @@ A Drupal 8 theme enhanced with an integrated version of Pattern Lab's component-
 - Integrated Design System
 - Content Strategy
 - HTML, CSS, Sass, Grunt, JS, MySQL
+
+## Design Highlights
+
+### Modular Design
+
+Pattern Lab, an open-source tool for building UI design systems, relies on smaller design components combined to create page sections and templates.
+
+The modular system reduces complexity while enforcing standardized styles, enabling designers and developers to effectively communicate and focus on optimization including accessibility and performance goals.
+
+Pattern Lab provides a way to describe the stitched together patterns so they can easily be referenced and updated. Reducing complexity ensures a maintainable and future-friendly system.
+
+Pattern Lab also provides ways to efficiently communicate with the client using interactive wireframes that integrate seamlessly into a component-based workflow. Clients are able to interact with individual components and low-fidelity versions of final pages, supporting an iterative design process.
+
+### Responsive Design
+
+Responsive websites focus on delivering thoughtful user experiences regardless of environment, bandwidth or specific user needs.
+
+Integrating Pattern Lab means designs move quickly to the browser and Drupal theme where they can be tested and optimized, supporting a mobile-first responsive approach.
+
+## Content Strategy
+
+### Create Once, Publish Everywhere
+
+Creating content once and publishing in multiple places disseminates content without overly burdening the creator.
+
+The content strategy informs the design system. Embracing a content-first approach, content and organizational goals are assessed during the planning phase to ensure the design approach addresses existing needs.
+
+Members with different roles contribute and curate featured content. The content strategy engages contributors while allowing privileged users to curate highly visible content. Based on the user’s permissions, instructions and resources for managing content are shown.
+
+A custom content type provides the primary admin interface for contributing content including variations and associated media. Content is promoted across the site using the same interface. Managing content in one place reduces complexity while leveraging valuable contributions. Articles are promoted with minimal effort and searchable archives are preserved.
+
+Roles determine access to privileged features like promoting articles. The content strategy engages contributors while allowing privileged users to curate highly visible content.
+
+Custom admin interfaces are displayed based on an assigned role. To increase engagement, adding content for users with restricted access is straightforward. Users with advanced access are trained to navigate additional options allowing them to strategically feature articles and media throughout the site.
+
+## Technical Details
+
+### Integrated Design System
+
+The theme is built on the Gesso Drupal 8 starter theme which integrates a version of Pattern Lab, automatically updating modified patterns across the site.
+
+Integrating Pattern Lab eliminates the need to maintain separate design systems, saving time and giving contributors immediate feedback.
+
+Drupal 8 improvements include a simplified theme layer and the introduction of the Twig templating language. Gesso complies with Drupal’s CSS best practices, using SMACSS to organize styles. The theme follows the same standards for consistency and clarity. Together, Drupal 8 and Gesso provide a semantic and organized foundation.
+
+Grunt compiles Sass and watches Pattern Lab files for changes. Flexbox is used for layout.
+
+<br> 
+<p align="center">
+    <img src="https://frances.ink/assets/img/modular-design/screen.jpg" />
+</p>
+
