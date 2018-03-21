@@ -84,11 +84,11 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
 - Built with [Gesso starter theme](https://github.com/forumone/gesso) and [Twig Gesso StarterKit for Drupal](https://github.com/forumone/starterkit-twig-drupal-gesso) (installed with Pattern Lab).
     
-# Integrated Modular Design
-
-## Case Study
+# Case Study
 
 Read the [case study](https://frances.ink/portfolio/modular-design.html). 
+
+## Integrated Modular Design
 
 <br> 
 <p align="center">
