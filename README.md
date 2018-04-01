@@ -80,7 +80,7 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
     composer update
 
-## Notes
+### Notes
 
 - Built with [Gesso starter theme](https://github.com/forumone/gesso) and [Twig Gesso StarterKit for Drupal](https://github.com/forumone/starterkit-twig-drupal-gesso) (installed with Pattern Lab).
     
